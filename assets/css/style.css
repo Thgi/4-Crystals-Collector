@@ -1,0 +1,74 @@
+body{
+  background-color: #ece5da;
+  text-align: center;
+}
+
+/*h1 {
+  font-family: sans-serif;
+  font-size: 30px;
+  background-color: orange;
+  color: white;
+  width: 200px;*/
+}
+ #mainBody{
+  font-family: sans-serif;
+  color: orange;
+  background-color: tan;
+  font-size: 40px;
+}
+
+h2 {
+   margin: 20px; 
+  font-family: "Paytone One";
+  color: #202020;
+  text-transform: uppercase;
+  letter-spacing: -2px;
+}
+
+h1 span {
+  display: block;
+  margin: 11px 0 17px 0;
+  font-size: 90px;
+  line-height: 70px;
+  color: #f1ebe5;
+  text-shadow: 0 13.36px 8.896px #c4b59d,0 -2px 1px #fff;
+  letter-spacing: -4px;
+}
+h2{
+	color:#D35400  ;
+	font-size:40px;
+}
+
+h3 {
+	color:#D35400;
+	font-size: 35px;
+}
+
+h4{
+	color:#D35400  ;
+	font-size: 20px;
+}
+ p {
+	color:#D35400  ;
+	font-size: 14px;
+}
+h5{
+	color:#D35400  ;
+	font-size: 17px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
